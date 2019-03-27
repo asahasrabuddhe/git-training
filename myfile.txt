@@ -2,4 +2,6 @@ This is my file. I typed some content
 
 Missing text added.
 
-This is a new line.
+This is a new paragraph.
+
+This is how the file should look.
