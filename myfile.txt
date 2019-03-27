@@ -3,3 +3,5 @@ This is my file. I typed some content
 Missing text added.
 
 This is a new line. I have added another sentence to this new line. This is now a paragraph.
+
+This is the final change to make my file perfect.
